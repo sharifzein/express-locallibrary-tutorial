@@ -25,10 +25,6 @@ mongoose.set("strictQuery", false);
 // const dev_db_url  = "insert_your_database_url_here";
 const dev_db_url = "mongodb://127.0.0.1:27017/local_library";
 
-// Below is the connectin string for the local_library database.
-// I Inserted the database name "local_library" in the path before the options
-// const dev_db_url  =
-// "mongodb+srv://sharif:pC8w5wglDuS41Av8@cluster0.jhvwbm5.mongodb.net/local_library?retryWrites=true&w=majority&appName=Cluster0";
 
 /*
 main().catch((err) => console.log(err));
